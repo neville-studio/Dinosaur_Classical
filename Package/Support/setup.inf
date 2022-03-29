@@ -1,0 +1,57 @@
+;*** BEGIN **********************************************************
+;**                                                                **
+;** Automatically generated on: Sun Jul 11 09:24:01 2021           **
+;**                                                                **
+;** MakeCAB Version: (32) 1.00.603.4 (06/25/98)                     **
+;**                                                                **
+;*** BEGIN **********************************************************
+[disk list]
+1,Disk 1
+[cabinet list]
+1,1,Dinosaur.CAB
+[file list]
+1,0,Setup.Lst,5541
+1,0,setup.exe,139776
+1,1,Dinosaur.exe,126976
+1,1,msvbvm60.dll,1384479
+1,1,OLEAUT32.DLL,598288
+1,1,OLEPRO32.DLL,164112
+1,1,ASYCFILT.DLL,147728
+1,1,STDOLE2.TLB,17920
+1,1,COMCAT.DLL,22288
+1,1,VB6CHS.DLL,102160
+1,1,SETUP1.EXE,249856
+1,1,VB6STKIT.DLL,101888
+1,1,ST6UNST.EXE,73216
+1,1,Dinosaur.exe.manifest,563
+1,1,dinoprof.set,32
+1,1,Dinosaur Help Document.htm,975
+1,1,boss1.bmp,760
+1,1,boss2.bmp,784
+1,1,bossattack.bmp,264
+1,1,businessman1.bmp,1202
+1,1,businessman2.bmp,1202
+1,1,fire.bmp,164
+1,1,flyer1.bmp,182
+1,1,flyer2.bmp,184
+1,1,moon.bmp,7654
+1,1,redmoon.bmp,7654
+1,1,runner1.bmp,702
+1,1,runner2.bmp,704
+1,1,runner3.bmp,770
+1,1,runner4.bmp,770
+1,1,runner5.bmp,704
+1,1,runner6.bmp,704
+1,1,runner7.bmp,772
+1,1,runner8.bmp,772
+1,1,runnerlogo.ico,1078
+1,1,tree1.bmp,502
+1,1,tree2.bmp,504
+1,1,userattack1.bmp,262
+1,1,userattack2.bmp,264
+1,1,bgm.wav,45367374
+;*** END ************************************************************
+;**                                                                **
+;** Automatically generated on: Sun Jul 11 09:24:01 2021           **
+;**                                                                **
+;*** END ************************************************************

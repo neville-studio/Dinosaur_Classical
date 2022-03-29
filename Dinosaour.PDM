@@ -1,0 +1,202 @@
+[Root]
+Most Recent Package=标准安装软件包 1
+
+
+[Package|标准安装软件包 1|Root]
+SubWizProgID=PDWizard.SetupPkgSubWiz
+BuildFolder=C:\Documents and Settings\XuPeng Studio\My Documents\runner\Package
+
+[Package|标准安装软件包 1|Configure DAO ISAMs]
+Applicable=No
+
+[Package|标准安装软件包 1|Configure DAO ODBC]
+JetWorkspace=
+ODBCDirect=
+
+[Package|标准安装软件包 1|Files Found]
+
+[Package|标准安装软件包 1|Files Released]
+bgm.mp3=
+
+[Package|标准安装软件包 1|Missing Dependency Information]
+
+[Package|标准安装软件包 1|Out-of-Date Dependency Information]
+
+[Package|标准安装软件包 1|Files Added]
+c:\documents and settings\xupeng studio\my documents\runner\dinosaur.exe.manifest=
+c:\documents and settings\xupeng studio\my documents\runner\data\dinoprof.set=
+c:\documents and settings\xupeng studio\my documents\runner\help\dinosaur help document.htm=
+c:\documents and settings\xupeng studio\my documents\runner\images\boss1.bmp=
+c:\documents and settings\xupeng studio\my documents\runner\images\boss2.bmp=
+c:\documents and settings\xupeng studio\my documents\runner\images\bossattack.bmp=
+c:\documents and settings\xupeng studio\my documents\runner\images\businessman1.bmp=
+c:\documents and settings\xupeng studio\my documents\runner\images\businessman2.bmp=
+c:\documents and settings\xupeng studio\my documents\runner\images\fire.bmp=
+c:\documents and settings\xupeng studio\my documents\runner\images\flyer1.bmp=
+c:\documents and settings\xupeng studio\my documents\runner\images\flyer2.bmp=
+c:\documents and settings\xupeng studio\my documents\runner\images\moon.bmp=
+c:\documents and settings\xupeng studio\my documents\runner\images\redmoon.bmp=
+c:\documents and settings\xupeng studio\my documents\runner\images\runner1.bmp=
+c:\documents and settings\xupeng studio\my documents\runner\images\runner2.bmp=
+c:\documents and settings\xupeng studio\my documents\runner\images\runner3.bmp=
+c:\documents and settings\xupeng studio\my documents\runner\images\runner4.bmp=
+c:\documents and settings\xupeng studio\my documents\runner\images\runner5.bmp=
+c:\documents and settings\xupeng studio\my documents\runner\images\runner6.bmp=
+c:\documents and settings\xupeng studio\my documents\runner\images\runner7.bmp=
+c:\documents and settings\xupeng studio\my documents\runner\images\runner8.bmp=
+c:\documents and settings\xupeng studio\my documents\runner\images\runnerlogo.ico=
+c:\documents and settings\xupeng studio\my documents\runner\images\tree1.bmp=
+c:\documents and settings\xupeng studio\my documents\runner\images\tree2.bmp=
+c:\documents and settings\xupeng studio\my documents\runner\images\userattack1.bmp=
+c:\documents and settings\xupeng studio\my documents\runner\images\userattack2.bmp=
+c:\documents and settings\xupeng studio\my documents\runner\sound\bgm.wav=
+bgm.mp3=
+
+[Package|标准安装软件包 1|Files Removed]
+
+[Package|标准安装软件包 1|Files In Project]
+C:\Documents and Settings\XuPeng Studio\My Documents\runner\Dinosaur.exe=Yes
+C:\WINDOWS\system32\msvbvm60.dll=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEAUT32.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEPRO32.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\ASYCFILT.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\STDOLE2.TLB=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=Yes
+C:\WINDOWS\system32\VB6CHS.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=Yes
+C:\WINDOWS\system32\VB6STKIT.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=Yes
+C:\Documents and Settings\XuPeng Studio\My Documents\runner\Dinosaur.exe.manifest=Yes
+C:\Documents and Settings\XuPeng Studio\My Documents\runner\Data\dinoprof.set=Yes
+C:\Documents and Settings\XuPeng Studio\My Documents\runner\help\Dinosaur Help Document.htm=Yes
+C:\Documents and Settings\XuPeng Studio\My Documents\runner\images\boss1.bmp=Yes
+C:\Documents and Settings\XuPeng Studio\My Documents\runner\images\boss2.bmp=Yes
+C:\Documents and Settings\XuPeng Studio\My Documents\runner\images\bossattack.bmp=Yes
+C:\Documents and Settings\XuPeng Studio\My Documents\runner\images\businessman1.bmp=Yes
+C:\Documents and Settings\XuPeng Studio\My Documents\runner\images\businessman2.bmp=Yes
+C:\Documents and Settings\XuPeng Studio\My Documents\runner\images\fire.bmp=Yes
+C:\Documents and Settings\XuPeng Studio\My Documents\runner\images\flyer1.bmp=Yes
+C:\Documents and Settings\XuPeng Studio\My Documents\runner\images\flyer2.bmp=Yes
+C:\Documents and Settings\XuPeng Studio\My Documents\runner\images\moon.bmp=Yes
+C:\Documents and Settings\XuPeng Studio\My Documents\runner\images\redmoon.bmp=Yes
+C:\Documents and Settings\XuPeng Studio\My Documents\runner\images\runner1.bmp=Yes
+C:\Documents and Settings\XuPeng Studio\My Documents\runner\images\runner2.bmp=Yes
+C:\Documents and Settings\XuPeng Studio\My Documents\runner\images\runner3.bmp=Yes
+C:\Documents and Settings\XuPeng Studio\My Documents\runner\images\runner4.bmp=Yes
+C:\Documents and Settings\XuPeng Studio\My Documents\runner\images\runner5.bmp=Yes
+C:\Documents and Settings\XuPeng Studio\My Documents\runner\images\runner6.bmp=Yes
+C:\Documents and Settings\XuPeng Studio\My Documents\runner\images\runner7.bmp=Yes
+C:\Documents and Settings\XuPeng Studio\My Documents\runner\images\runner8.bmp=Yes
+C:\Documents and Settings\XuPeng Studio\My Documents\runner\images\runnerlogo.ico=Yes
+C:\Documents and Settings\XuPeng Studio\My Documents\runner\images\tree1.bmp=Yes
+C:\Documents and Settings\XuPeng Studio\My Documents\runner\images\tree2.bmp=Yes
+C:\Documents and Settings\XuPeng Studio\My Documents\runner\images\userattack1.bmp=Yes
+C:\Documents and Settings\XuPeng Studio\My Documents\runner\images\userattack2.bmp=Yes
+C:\Documents and Settings\XuPeng Studio\My Documents\runner\sound\bgm.wav=Yes
+
+[Package|标准安装软件包 1|Configure Registry Files]
+Applicable=No
+
+[Package|标准安装软件包 1|Configure Remote Servers]
+Applicable=No
+
+[Package|标准安装软件包 1|Install Locations]
+C:\Documents and Settings\XuPeng Studio\My Documents\runner\Dinosaur.exe=$(AppPath)
+C:\WINDOWS\system32\msvbvm60.dll=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEAUT32.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEPRO32.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\ASYCFILT.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\STDOLE2.TLB=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\system32\VB6CHS.DLL=$(WinSysPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=$(AppPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=$(WinPath)
+C:\WINDOWS\system32\VB6STKIT.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=$(WinPath)
+C:\Documents and Settings\XuPeng Studio\My Documents\runner\Dinosaur.exe.manifest=$(AppPath)
+C:\Documents and Settings\XuPeng Studio\My Documents\runner\Data\dinoprof.set=$(AppPath)\Data
+C:\Documents and Settings\XuPeng Studio\My Documents\runner\help\Dinosaur Help Document.htm=$(AppPath)\help
+C:\Documents and Settings\XuPeng Studio\My Documents\runner\images\boss1.bmp=$(AppPath)\images
+C:\Documents and Settings\XuPeng Studio\My Documents\runner\images\boss2.bmp=$(AppPath)\images
+C:\Documents and Settings\XuPeng Studio\My Documents\runner\images\bossattack.bmp=$(AppPath)\images
+C:\Documents and Settings\XuPeng Studio\My Documents\runner\images\businessman1.bmp=$(AppPath)\images
+C:\Documents and Settings\XuPeng Studio\My Documents\runner\images\businessman2.bmp=$(AppPath)\images
+C:\Documents and Settings\XuPeng Studio\My Documents\runner\images\fire.bmp=$(AppPath)\images
+C:\Documents and Settings\XuPeng Studio\My Documents\runner\images\flyer1.bmp=$(AppPath)\images
+C:\Documents and Settings\XuPeng Studio\My Documents\runner\images\flyer2.bmp=$(AppPath)\images
+C:\Documents and Settings\XuPeng Studio\My Documents\runner\images\runner3.bmp=$(AppPath)\images
+C:\Documents and Settings\XuPeng Studio\My Documents\runner\images\runner4.bmp=$(AppPath)\images
+C:\Documents and Settings\XuPeng Studio\My Documents\runner\images\runner6.bmp=$(AppPath)\images
+C:\Documents and Settings\XuPeng Studio\My Documents\runner\images\runner7.bmp=$(AppPath)\images
+C:\Documents and Settings\XuPeng Studio\My Documents\runner\images\runner8.bmp=$(AppPath)\images
+C:\Documents and Settings\XuPeng Studio\My Documents\runner\images\runnerlogo.ico=$(AppPath)\images
+C:\Documents and Settings\XuPeng Studio\My Documents\runner\images\tree1.bmp=$(AppPath)\images
+C:\Documents and Settings\XuPeng Studio\My Documents\runner\images\tree2.bmp=$(AppPath)\images
+C:\Documents and Settings\XuPeng Studio\My Documents\runner\images\userattack1.bmp=$(AppPath)\images
+C:\Documents and Settings\XuPeng Studio\My Documents\runner\images\userattack2.bmp=$(AppPath)\images
+C:\Documents and Settings\XuPeng Studio\My Documents\runner\sound\bgm.wav=$(AppPath)\sound
+C:\Documents and Settings\XuPeng Studio\My Documents\runner\images\moon.bmp=$(AppPath)\images
+C:\Documents and Settings\XuPeng Studio\My Documents\runner\images\redmoon.bmp=$(AppPath)\images
+C:\Documents and Settings\XuPeng Studio\My Documents\runner\images\runner1.bmp=$(AppPath)\images
+C:\Documents and Settings\XuPeng Studio\My Documents\runner\images\runner2.bmp=$(AppPath)\images
+C:\Documents and Settings\XuPeng Studio\My Documents\runner\images\runner5.bmp=$(AppPath)\images
+C:\Documents and Settings\XuPeng Studio\My Documents\runner\sound\bgm.mp3=$(AppPath)\sound
+
+[Package|标准安装软件包 1|Configure Shared Files]
+Applicable=Yes
+C:\Documents and Settings\XuPeng Studio\My Documents\runner\Dinosaur.exe=No
+C:\Documents and Settings\XuPeng Studio\My Documents\runner\Dinosaur.exe.manifest=No
+C:\Documents and Settings\XuPeng Studio\My Documents\runner\Data\dinoprof.set=No
+C:\Documents and Settings\XuPeng Studio\My Documents\runner\help\Dinosaur Help Document.htm=No
+C:\Documents and Settings\XuPeng Studio\My Documents\runner\images\boss1.bmp=No
+C:\Documents and Settings\XuPeng Studio\My Documents\runner\images\boss2.bmp=No
+C:\Documents and Settings\XuPeng Studio\My Documents\runner\images\bossattack.bmp=No
+C:\Documents and Settings\XuPeng Studio\My Documents\runner\images\businessman1.bmp=No
+C:\Documents and Settings\XuPeng Studio\My Documents\runner\images\businessman2.bmp=No
+C:\Documents and Settings\XuPeng Studio\My Documents\runner\images\fire.bmp=No
+C:\Documents and Settings\XuPeng Studio\My Documents\runner\images\flyer1.bmp=No
+C:\Documents and Settings\XuPeng Studio\My Documents\runner\images\flyer2.bmp=No
+C:\Documents and Settings\XuPeng Studio\My Documents\runner\images\moon.bmp=No
+C:\Documents and Settings\XuPeng Studio\My Documents\runner\images\redmoon.bmp=No
+C:\Documents and Settings\XuPeng Studio\My Documents\runner\images\runner1.bmp=No
+C:\Documents and Settings\XuPeng Studio\My Documents\runner\images\runner2.bmp=No
+C:\Documents and Settings\XuPeng Studio\My Documents\runner\images\runner3.bmp=No
+C:\Documents and Settings\XuPeng Studio\My Documents\runner\images\runner4.bmp=No
+C:\Documents and Settings\XuPeng Studio\My Documents\runner\images\runner5.bmp=No
+C:\Documents and Settings\XuPeng Studio\My Documents\runner\images\runner6.bmp=No
+C:\Documents and Settings\XuPeng Studio\My Documents\runner\images\runner7.bmp=No
+C:\Documents and Settings\XuPeng Studio\My Documents\runner\images\runner8.bmp=No
+C:\Documents and Settings\XuPeng Studio\My Documents\runner\images\runnerlogo.ico=No
+C:\Documents and Settings\XuPeng Studio\My Documents\runner\images\tree1.bmp=No
+C:\Documents and Settings\XuPeng Studio\My Documents\runner\images\tree2.bmp=No
+C:\Documents and Settings\XuPeng Studio\My Documents\runner\images\userattack1.bmp=No
+C:\Documents and Settings\XuPeng Studio\My Documents\runner\images\userattack2.bmp=No
+C:\Documents and Settings\XuPeng Studio\My Documents\runner\sound\bgm.wav=No
+C:\Documents and Settings\XuPeng Studio\My Documents\runner\sound\bgm.mp3=No
+
+[Package|标准安装软件包 1|Distribution]
+Type=single
+Size=
+Title=Dinosaur 2.0
+
+[Package|标准安装软件包 1|IconGroups]
+Group0=$(Programs)
+PrivateGroup0=-1
+Parent0=
+
+[Package|标准安装软件包 1|$(Programs)]
+Icon1=Dinosaur.exe
+Title1=Dinosaur 2.0
+StartIn1=$(AppPath)
+Key1=Icon3
+
+[Package|标准安装软件包 1|Package]
+PackageFolder=C:\Documents and Settings\XuPeng Studio\My Documents\runner\Package
+ProjectFolder=C:\Documents and Settings\XuPeng Studio\My Documents\runner
+ServerSideCab=
+File1=C:\Documents and Settings\XuPeng Studio\My Documents\runner\Package\setup.exe
+File2=C:\Documents and Settings\XuPeng Studio\My Documents\runner\Package\Setup.Lst
+File3=C:\Documents and Settings\XuPeng Studio\My Documents\runner\Package\Dinosaur.CAB
+Handler1=PDWizard.FolderDplySubWiz
+Handler2=PDWizard.WebPostDplySubWiz

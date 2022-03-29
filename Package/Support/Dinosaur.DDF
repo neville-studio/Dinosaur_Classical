@@ -1,0 +1,52 @@
+.OPTION EXPLICIT
+.Set Cabinet=off
+.Set Compress=off
+.Set MaxDiskSize=CDROM
+.Set ReservePerCabinetSize=6144
+.Set DiskDirectoryTemplate=".."
+.Set CompressionType=MSZIP
+.Set CompressionLevel=7
+.Set CompressionMemory=21
+.Set CabinetNameTemplate="Dinosaur.CAB"
+"Setup.Lst"
+"setup.exe"
+.Set Cabinet=on
+.Set Compress=on
+"Dinosaur.exe"
+"msvbvm60.dll"
+"OLEAUT32.DLL"
+"OLEPRO32.DLL"
+"ASYCFILT.DLL"
+"STDOLE2.TLB"
+"COMCAT.DLL"
+"VB6CHS.DLL"
+"SETUP1.EXE"
+"VB6STKIT.DLL"
+"ST6UNST.EXE"
+"Dinosaur.exe.manifest"
+"dinoprof.set"
+"Dinosaur Help Document.htm"
+"boss1.bmp"
+"boss2.bmp"
+"bossattack.bmp"
+"businessman1.bmp"
+"businessman2.bmp"
+"fire.bmp"
+"flyer1.bmp"
+"flyer2.bmp"
+"moon.bmp"
+"redmoon.bmp"
+"runner1.bmp"
+"runner2.bmp"
+"runner3.bmp"
+"runner4.bmp"
+"runner5.bmp"
+"runner6.bmp"
+"runner7.bmp"
+"runner8.bmp"
+"runnerlogo.ico"
+"tree1.bmp"
+"tree2.bmp"
+"userattack1.bmp"
+"userattack2.bmp"
+"bgm.wav"
